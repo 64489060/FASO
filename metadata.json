@@ -1,0 +1,6 @@
+{
+  "name": "FASO — Portefeuille Numérique & Finance Solidaire",
+  "description": "Application financière sécurisée du Burkina Faso : authentification par numéro, code de sécurité portefeuille, passerelle Mobile Money, simulateur de crédit et support WhatsApp +226.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
